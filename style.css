@@ -3,7 +3,9 @@ body{
 }
 h1{
 	color: #1e2a2d;
+	font-size: 24px;
 }
 p{
 	color: #fb1;
+	text-decoration: underline;
 }
